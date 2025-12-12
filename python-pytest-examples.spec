@@ -5,7 +5,7 @@
 
 Name:		python-pytest-examples
 Version:	0.0.17
-Release:	1
+Release:	2
 Summary:	Pytest plugin for testing examples in docstrings and markdown files.
 URL:		https://pypi.org/project/pytest-examples/
 License:	None
